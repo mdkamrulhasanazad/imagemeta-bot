@@ -1,5 +1,6 @@
 python-telegram-bot==13.15
 urllib3==1.26.18
 six
+setuptools
 Pillow
 piexif
